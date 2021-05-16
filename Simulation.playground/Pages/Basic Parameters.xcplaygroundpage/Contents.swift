@@ -22,8 +22,8 @@ startSimulation()
 
  Observe how quickly the ants dissipate and how much of the screen they cover. What happens when an ant wanders too far?
  */
-//numberOfAnts = 2
-//antSpeed = 150
+numberOfAnts = 2
+antSpeed = 150
 //: - Note: The ants' wandering is created by using a *random number generator*. Random numbers are often used in simulations to approximate the variability that exists in the real world. Without random behavior, the ant simulation would be *deterministic*, meaning that you'd see identical ant behavior every time for a given set of parameter values. That wouldn't be a good approximation of real ants.
 /*:
 [Previous](@previous)  |  page 3 of 6  |  [Next: Pheromones](@next)
